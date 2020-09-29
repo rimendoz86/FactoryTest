@@ -7,6 +7,6 @@ class Car
     Car(){
       wheels = 4;
       seets = 16;
-      std::cout << "A Normal Car Was Made";  
+      std::cout << "A Normal Car Was Made" << std::endl;  
     };
 };
